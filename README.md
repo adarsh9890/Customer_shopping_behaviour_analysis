@@ -1,6 +1,3 @@
-# Customer_behaviour_analysis
-<img width="1162" height="656" alt="image" src="https://github.com/user-attachments/assets/044dd110-1c80-4668-9f50-7e58c3b8b34b" />
-
 # Customer Shopping Behaviour Analysis
 
 An end-to-end data analytics project using Python for data cleaning, MySQL for database querying, and Power BI for creating an interactive dashboard to analyze retail customer trends.
@@ -45,7 +42,8 @@ The queries inside `Customer_behaviour_query.sql` extract key business metrics:
 ## Interactive Dashboard Preview
 The final layer of the project is an interactive Power BI dashboard that monitors sales KPIs, customer demographics, and product performance metrics.
 
-<img width="1162" height="656" alt="image" src="https://github.com/user-attachments/assets/044dd110-1c80-4668-9f50-7e58c3b8b34b" />
+<img width="1162" height="651" alt="image" src="https://github.com/user-attachments/assets/2d8f53a2-0443-4931-b677-9ffb099b493b" />
+
 
 
 ---
