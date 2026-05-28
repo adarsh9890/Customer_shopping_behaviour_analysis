@@ -1,4 +1,6 @@
 # Customer_behaviour_analysis
+<img width="1162" height="656" alt="image" src="https://github.com/user-attachments/assets/044dd110-1c80-4668-9f50-7e58c3b8b34b" />
+
 
 **Data analytics project** showcasing customer behaviour analysis using Python, SQL, and Power BI.  
 This project covers the complete data analytics workflow:  
