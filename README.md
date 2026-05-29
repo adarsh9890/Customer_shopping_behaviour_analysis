@@ -42,7 +42,8 @@ The queries inside `Customer_behaviour_query.sql` extract key business metrics:
 ## Interactive Dashboard Preview
 The final layer of the project is an interactive Power BI dashboard that monitors sales KPIs, customer demographics, and product performance metrics.
 
-<img width="1162" height="651" alt="image" src="https://github.com/user-attachments/assets/2d8f53a2-0443-4931-b677-9ffb099b493b" />
+<img width="1161" height="651" alt="image" src="https://github.com/user-attachments/assets/3071723c-af89-405f-894b-dc32e581b610" />
+
 
 
 
